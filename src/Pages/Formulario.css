@@ -1,0 +1,13 @@
+#Formulario_Card{
+    border: solid 1px gray;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(Background.jpg);
+}
+#Section_form{
+    border: 1px solid red;
+}
